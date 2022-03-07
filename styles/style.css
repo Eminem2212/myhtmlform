@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  font-weight: bolder;
+  background-color: aquamarine;
+}
+
+.bg-light {
+  width: 40%;
+  font-size: 300px;
+}
+/*# sourceMappingURL=style.css.map */
